@@ -1,0 +1,13 @@
+*.class
+*.jar
+*.war
+*.ear
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+target/
+build/
+out/
